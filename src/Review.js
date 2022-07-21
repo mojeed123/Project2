@@ -9,13 +9,13 @@ function Review() {
                
                
             <Card>
-                <Card.Img className="vc" variant="top" src="https://images.footlocker.com/is/image/EBFL2/74889141_om1?wid=559&hei=559&fmt=png-alpha" />
+                <Card.Img className="vc" variant="top" src="https://images.footlocker.com/is/image/EBFL2/7977652_om1?wid=559&hei=559&fmt=png-alpha" />
                 <Card.Body>
-                  <Card.Title>Mens Iconcic T7 Puma Jacket</Card.Title>
+                  <Card.Title>Nike Swoosh Jacket</Card.Title>
                   <Card.Text>
-                <p>Puma Iconic Jacket</p>
-                <p>When i saw this jacket and decided to try it on, it was so comfy and warm </p>
-                <p>10/10 product</p>
+               
+                <p>This jacket absolutely works well in any weather most especially the rain, i recommend it to anyone </p>
+                <p>9/10 product</p>
                     
                     
             </Card.Text>

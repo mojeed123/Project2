@@ -325,6 +325,23 @@ code {
   border: 1px solid black;
 }
 
+.rd{
+  position: absolute;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-color:rgba(0, 0, 255, 0.062);
+  border: 1px solid black;
+  align-items: center;
+
+}
+
+.tb{
+  margin-top: 100px;
+  border: 2px solid black;
+}
+
 
 
 

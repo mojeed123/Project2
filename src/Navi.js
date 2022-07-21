@@ -277,6 +277,8 @@ function Navi() {
                <Nav.Link href="/review">{t("REV")}</Nav.Link>
                <Nav.Link href="/Location">{t("Location")}</Nav.Link>
                <Nav.Link href="/contact">{t("CONTA")}</Nav.Link>
+               <Nav.Link href="/faq">{"Faq"}</Nav.Link>
+
               
 
             </Nav>

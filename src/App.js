@@ -33,6 +33,7 @@ import Puma from './Puma'
 
 import logo from './logo.svg';
 import './App.css';
+import Faq from './Faq'
 
 
 function App() {
@@ -49,6 +50,7 @@ function App() {
           <Route path="/home" exact element={<Home/>}></Route>
          <Route path="/location" exact element={<Location/>}></Route>
          <Route path="/contact" exact element={<Contact/>}></Route>
+         <Route path="/faq" exact element={<Faq/>}></Route>
          <Route path="/accessories" exact element={<Accessories/>}></Route>
          <Route path="/hats" exact element={<Hats/>}></Route>
          <Route path="/confirmation" exact element={<Confirmation/>}></Route>
