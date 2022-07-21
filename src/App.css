@@ -22,6 +22,7 @@
 
 .vt{
   margin-bottom: 15px;
+  border:2px solid blue;
  
   
   float:right;
@@ -308,6 +309,7 @@ code {
 
 .re{
   margin-top: 50px;
+  border:2px solid blue;
 }
 
 .rt{

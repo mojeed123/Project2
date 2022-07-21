@@ -10,9 +10,10 @@ function Contact() {
 
   let [name, setName] = useState("");
   let [email, setEmail] = useState("");
+  let [Inq, setInq] = useState("");
     return (
         
-            <div class="p-3 mb-2 bg-primary text-white">
+            <div>
               <div className="vt">
                 <Container>
                 <select className="lang" onChange={(e) => i18next.changeLanguage(e.target.value)}>
@@ -69,6 +70,14 @@ function Contact() {
     <Form.Control type="Name" placeholder={t("name_place")}
     value={name}
     onChange={(e) => setName(e.target.value)} 
+    />
+    </Form.Group>
+
+    <Form.Group className="mb-3" controlId="Inquiry">
+    <Form.Label>{t("Inq")}</Form.Label>
+    <Form.Control type="text" placeholder={t("Inq_place")}
+    value={Inq}
+    onChange={(e) => setInq(e.target.value)} 
     />
     </Form.Group>
 

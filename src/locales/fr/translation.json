@@ -36,11 +36,12 @@
 
     
     
-   
     
     
     "Name" : "Nom",
     "name_place" : "Entrez le nom",
+    "Inq" : "Demande",
+    "Inq_place" : " Entrez la demande",
     "Email" : "entrer l'e-mail",
     "name_email": "E-mail",
     "Submit" : "Soumettre"

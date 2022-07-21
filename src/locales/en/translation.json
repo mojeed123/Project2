@@ -44,6 +44,8 @@
 
     "Name" : "Name",
     "name_place" : "Enter Name",
+    "Inq" : "Inquiry",
+    "Inq_place" : "Enter Inquiry",
     "Email" : " Enter Email",
     "name_email": "E-mail",
     "Submit" : "Submit"
