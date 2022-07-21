@@ -1,0 +1,45 @@
+[
+    {
+    "id": 1,
+    "text": "Nike Hoodie",
+    
+    "cost": "$130",
+    "image": "https://images.footlocker.com/is/image/EBFL2/74889141_om1?wid=559&hei=559&fmt=png-alpha"
+    
+    },
+    {
+        "id": 2,
+        "text": "Puma Jacket",
+       
+        "cost": "$130",
+        "image": "https://images.footlocker.com/is/image/EBFL2/47606992_a1?wid=559&hei=559&fmt=png-alpha"
+        
+        },
+    
+     {
+        "id": 3,
+        "text": "Yeezy Hoodie",
+        
+        "cost": "$130",
+        "image": "https://images.footlocker.com/is/image/EBFL2/64721543_a1?wid=559&hei=559&fmt=png-alpha"
+        
+     },
+     
+     {
+        "id": 5,
+        "text": "Nike Tee",
+       
+        "cost": "$130",
+        "image": "https://images.footlocker.com/is/image/EBFL2/73817100_om1?wid=559&hei=559&fmt=png-alpha"
+        
+     },
+     {
+        "id": 6,
+        "text": "plain tee",
+        
+        "cost": "$130",
+        "image": "https://images.footlocker.com/is/image/EBFL2/73101970_om1?wid=559&hei=559&fmt=png-alpha"
+        
+     }
+
+] 

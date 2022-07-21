@@ -1,0 +1,48 @@
+{
+    "CONTACT US" : "nous contacter",
+    "CONTA": "Contactez",
+    "REV": "Examen",
+    "QUESTIONS" : "avoir une question? Nous contacter. nous faisons de notre mieux pour répondre dans un délai d'un jour ouvrable",
+    "EMAIL US" : "Envoyez-nous un email ",
+    "EMAIL": "abcd@gmail.com",
+    "PHONE US" : "",
+    "PHONE": "5198939607",
+    "DATE": "Du lundi au vendredi de 10 h 00 à 21 h 00 (HNE)",
+    "MENS": " Pour Des Hommes",
+    "WOMENS" : " Aux Femmes",
+    "HOME": " Domicile",
+    "Location": "Emplacement",
+    "KIDS": "Des gamins",
+    "FRY":"Salon De Chaussures",
+    "select1": "Des Chaussures",
+    "select2": "Fonctionnement",
+    "select3":  "Décontracté",
+    "select4": "Toutes les chaussures",
+    "select5": "Vêtements",
+    "select6": "Chemise",
+    "select7": "Sweats à capuche",
+    "select8": "Vestes",
+    "select9": "Accessoires",
+    "select10": "Chapeaux",
+    "select11": "Sacs",
+    "select12": "Chaussettes",
+    "select13": "Marques",
+    "select14": "Nike",
+    "select15": "Adidas",
+    "select16": "Puma",
+    "select17": "FemmesVestes",
+    "select18":"FemmesHoodies",
+    "select19": "FemmeChemise",
+
+    
+    
+   
+    
+    
+    "Name" : "Nom",
+    "name_place" : "Entrez le nom",
+    "Email" : "entrer l'e-mail",
+    "name_email": "E-mail",
+    "Submit" : "Soumettre"
+
+}
