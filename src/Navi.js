@@ -23,6 +23,7 @@ function Navi() {
 
 
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="black">
+              <Container>
        
         <Navbar.Brand className='ass'  href="/home">{t("FRY")}</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
@@ -231,47 +232,8 @@ function Navi() {
                 </Dropdown.Menu>
               </Dropdown>
               
-              {/* <Nav.Link href="#brands">Brands</Nav.Link>
-              <Dropdown as={NavItem}>
-                <Dropdown.Toggle as={NavLink}/>
-                <Dropdown.Menu className="large-dropdown-menu">
-                  <div className="dropdown-menu-wrapper"> */}
-                    
-                      
-                  
-                   
-                        {/* <Row>
-                        <Col>
-                         <Card>
-                        <Card.Img className='bran1' variant="top" src="https://images.footlocker.com/content/dam/final/eastbay/site/backpages/2020/1-january/brands/20200110-BrandLogos_Nike.svg" />
-                       </Card>
-                       </Col>
-                       
-                       
-                      
-                        <Col>
-                        <Card>
-                        <Card.Img className='bran1' variant="top" src="https://images.footlocker.com/content/dam/Resources/shared/brand-logos/adidas/adidas-originals.svg" />
-                        
-                        </Card>
-                        
-                       </Col>
-                       
-                        
-                        
-
-                        
-                        <Col>
-                        <Card>
-                       <Card.Img className='bran1' variant="top" src="https://images.footlocker.com/content/dam/final/eastbay/site/backpages/2020/1-january/brands/20200110-BrandLogos_Puma.svg" />
-                      </Card>
-                      </Col>
-                      </Row>
-                      
-                     
-                     </div>
-                  </Dropdown.Menu>
-                  </Dropdown> */}
+              
+              
               
                
                <Nav.Link href="/review">{t("REV")}</Nav.Link>
@@ -284,6 +246,7 @@ function Navi() {
             </Nav>
             
           </Navbar.Collapse>
+          </Container>
         
       </Navbar>
 
